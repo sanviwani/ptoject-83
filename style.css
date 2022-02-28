@@ -1,0 +1,9 @@
+body{
+    background-image:linear-gradient(#21f5fc 0%, #2128fc 25%, #a121fc 50%, #fc21be 75%, #fc216e 100%);
+}
+#myCanvas
+{
+    border-width:10px;
+    background-color: white; 
+    border-style:ridge;
+}
